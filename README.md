@@ -1,4 +1,4 @@
 # rsschool-cv
-[https://markonser.github.io/rsschool-cv/cv](https://markonser.github.io/rsschool-cv/cv)
+[MD cv version](https://markonser.github.io/rsschool-cv/cv)
 
-[https://markonser.github.io/rsschool-cv/](https://markonser.github.io/rsschool-cv/)
+[HTML cv version](https://markonser.github.io/rsschool-cv/)
